@@ -13,4 +13,4 @@ Window icon replacement theme manager
 * Alessandro Cantatore
 
 ## LINKS
-* [https://sourceforge.net/projects/sdlroids/](https://www.os2world.com/wiki/index.php?title=Theme_Manager)
+* https://www.os2world.com/wiki/index.php?title=Theme_Manager
