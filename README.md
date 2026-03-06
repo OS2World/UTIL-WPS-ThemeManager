@@ -5,7 +5,7 @@ Window icon replacement theme manager
 * GNU GPL V3 or later
 
 ## COMPILE TOOLS
-* gcc
+* icc
 * rc
 * ilink
  
